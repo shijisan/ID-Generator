@@ -1,5 +1,5 @@
 # ID-Generator
-Only for school, kinda cool though but python use case is inappropriate (imo)
+Only for school, kinda cool though but python use case is mid but automation so ye
 
 ## How to run
 1. CD to folder location
