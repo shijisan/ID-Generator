@@ -1,5 +1,5 @@
 # ID-Generator
-Only for school, kinda cool though but python use case is mid but automation so ye
+Python test project that aims to enhance my thinking in terms of automation
 
 ## How to run
 1. CD to folder location
